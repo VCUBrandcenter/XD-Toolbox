@@ -1,10 +1,10 @@
-# Awesome Comp
+# XD Toolbox
 
 A curated list of awesome tools and files for making your work look... well, awesome!
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/awesome-comp/graphs/contributors); you're __awesome__!
+Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
 ### Contents
 
@@ -14,6 +14,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Web](#social-web)
 - [In-Situation](#in-situation)
 	- [Web](#in-situ-web)
+- [Sketch UI Kits](#sketch-ui-design-kits)
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
