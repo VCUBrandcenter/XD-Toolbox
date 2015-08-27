@@ -1,6 +1,6 @@
-# XD Toolbox
+# Awesome Comp
 
-A curated list of awesome tools and files for Experience Designers.
+A curated list of awesome tools and files for making your work look... well, awesome!
 
 ### Contributing
 
@@ -21,9 +21,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [iOS 9 Sketch](https://designcode.io/ios9)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
 - [Apple Watch Sketch](https://designcode.io/watch)
-- [Apple Watch PSD]()
-- [Android]()
-- [Android Wear]()
+- [Apple Watch PSD](https://ui8.net/product/apple-watch-ui-kit)
+- [Android Wear](https://developer.android.com/design/downloads/index.html)
 
 
 ## Social
