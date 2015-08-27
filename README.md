@@ -1,6 +1,6 @@
-# Awesome Comp
+# XD Toolbox
 
-A curated list of awesome tools and files for making your work look... well, awesome!
+A curated list of awesome tools and files for Experience Designers.
 
 ### Contributing
 
