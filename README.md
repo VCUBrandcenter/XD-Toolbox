@@ -1,5 +1,5 @@
 # Awesome Comp
-======
+
 A curated list of awesome tools and files for making your work look... well, awesome!
 
 ### Contributing
