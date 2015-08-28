@@ -15,6 +15,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [In-Situation](#in-situation)
 	- [Web](#in-situ-web)
 - [Sketch UI Kits](#sketch-ui-design-kits)
+- [Code Frameworks](#code-frameworks)
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
@@ -28,6 +29,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## Social
 *A list for social media comps*
+
+- [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
 
 ### Social PSDs
 *Photoshop files for different social experiences*
@@ -57,3 +60,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Get a leg up on your designs with these kits*
 - [Now](http://www.invisionapp.com/now)
 - [tethr](http://www.invisionapp.com/tethr)
+
+## Code Frameworks
+*Here's some code snippets or all out code frameworks to help you build your next project*
+- [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
+- [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
