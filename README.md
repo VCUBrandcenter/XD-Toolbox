@@ -18,7 +18,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Sketch UI Kits](#sketch-ui-design-kits)
 - [Code Frameworks](#code-frameworks)
 - [Extras](#extras)
-	- [Ideation](#ideaton)
+	- [Ideation](#ideation)
 	- [Research](#research)
 
 ## OS UI
