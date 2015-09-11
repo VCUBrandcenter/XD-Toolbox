@@ -64,8 +64,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## Sketch UI Design Kits
 *Get a leg up on your designs with these kits*
-- [Now](http://www.invisionapp.com/now)
-- [tethr](http://www.invisionapp.com/tethr)
+- [Now](http://www.invisionapp.com/now) - A beautiful cross-platform UI kit
+- [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
 - [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
 
 ## Code Frameworks
@@ -80,6 +80,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
 - [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
 - [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
+- [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
 
 ### Research
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
