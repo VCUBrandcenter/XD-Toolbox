@@ -17,6 +17,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Web](#in-situ-web)
 - [Sketch UI Kits](#sketch-ui-design-kits)
 - [Code Frameworks](#code-frameworks)
+- [Extras](#extras)
+	- [Ideation](#ideaton)
+	- [Research](#research)
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
@@ -63,8 +66,22 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Get a leg up on your designs with these kits*
 - [Now](http://www.invisionapp.com/now)
 - [tethr](http://www.invisionapp.com/tethr)
+- [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
 
 ## Code Frameworks
 *Here's some code snippets or all out code frameworks to help you build your next project*
 - [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
 - [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
+
+## Extras
+*Here's extra stuff not necessarily related to prototyping but still helpful in your process*
+### Ideation
+- [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
+- [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
+- [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
+- [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
+
+### Research
+- [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
+- [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
+- [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
