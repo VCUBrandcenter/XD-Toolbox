@@ -49,6 +49,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Websites for making social media comps*
 
 - [Lemme tweet that for you](http://www.lemmetweetthatforyou.com/) - Simple interface for creating fake tweets.
+- [Pablo from Buffer](http://buffer.com/pablo) - Create image with text content for Instagram, Twitter, Facebook, or Pinterest. Resized automatically for you!
 
 ## In-situ
 *A list for dropping screens into real situations for comps*
