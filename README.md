@@ -20,6 +20,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Extras](#extras)
 	- [Ideation](#ideation)
 	- [Research](#research)
+	- [Presentation](#presentation)
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
@@ -87,3 +88,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
+
+### Presentation
+- [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
+- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
+- [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
