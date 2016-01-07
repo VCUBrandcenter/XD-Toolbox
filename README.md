@@ -94,3 +94,4 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
 - [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
 - [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
+- [Adobe Voice](https://standout.adobe.com/voice/) - An easy to use iOS app to help build "explainer" videos for you more complicated ideas.
