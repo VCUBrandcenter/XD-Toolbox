@@ -24,8 +24,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
-- [iOS 9 PSD](https://assets.adobe.com/link/60584eba-a002-4c8e-45f8-aa465b46aa1d?section=activity_public)
-- [iOS 9 Sketch](https://designcode.io/ios9)
+- [iOS 9 PSD & Sketch](https://facebook.github.io/design/ios9.html)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
 - [Apple Watch Sketch](https://designcode.io/watch)
 - [Apple Watch PSD](https://ui8.net/product/apple-watch-ui-kit)
