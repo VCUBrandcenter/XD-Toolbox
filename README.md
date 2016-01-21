@@ -17,6 +17,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Web](#in-situ-web)
 - [Sketch UI Kits](#sketch-ui-design-kits)
 - [Code Frameworks](#code-frameworks)
+- [Advertising](#advertising)
+	- [Ad Specs](#ad-specs)
+	- [Ad Research](#ad-research)
+	- [Ad Mockups](#ad-mockups)
 - [Extras](#extras)
 	- [Research](#research)
 	- [Ideation](#ideation)
@@ -75,9 +79,28 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
 - [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
 
+## Advertising
+*List of tools to help you create display ads*
+### Ad Specs
+*Dimensions and abilities of different ad platforms*
+- [Adsvise](http://www.adsvise.com/) - Social & digital ad image specs, sizes & dimensions in one place. PSD's included!
+- [IAB Display Advertising Guidelines](http://www.iab.com/guidelines/iab-display-advertising-guidelines/) - Has the HTML5 dimensions and guidelines for display advertising, also includes info about up and coming ad units.
+
+### Ad Research
+*Sites to help you discover and concept digital ads*
+- [Moat](http://www.moat.com/) - Search any brand and find it's banner ads.
+- [Facebook Studio](https://www.facebook-studio.com/) - Showcases the best marketing campaigns ran on Facebook.
+- [Google Creative Gallery](https://www.thinkwithgoogle.com/intl/en-gb/creative-gallery/) - Use to be the Google Sandbox, a great collection of the leading digital ads, with a Google products focus.
+
+### Ad Mockups
+*Tools to help you design and build digital ads*
+- [Google Web Designer](https://www.google.com/webdesigner/) - An app developed to help you design and present your paid media advertising (banners).
+
 ## Extras
 *Here's extra stuff not necessarily related to prototyping but still helpful in your process*
 ### Research
+- [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
+- [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.  
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
