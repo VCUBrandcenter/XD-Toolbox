@@ -11,6 +11,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 - [OS UI](#os-ui)
 - [Social](#social)
+	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
 	- [Web](#social-web)
 - [In-Situation](#in-situation)
@@ -38,6 +39,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ## Social
 *List stock photo sites for social media comps*
 
+### Stock Photos
 - [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
 - [Unsplash](https://unsplash.com/) - Amazing photographs that you can use commercially for free. Even has a Sketch [plug-in](https://github.com/fhuel/Unsplash-It-Sketch).
 - [Tookapic](https://stock.tookapic.com/) - Free stock photos, even for commercial purposes.
