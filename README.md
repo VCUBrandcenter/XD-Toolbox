@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Stock Photos
 - [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
 - [Unsplash](https://unsplash.com/) - Amazing photographs that you can use commercially for free. Even has a Sketch [plug-in](https://github.com/fhuel/Unsplash-It-Sketch).
-- [Tookapic](https://stock.tookapic.com/) - Free stock photos, even for commercial purposes.
+- [Pexels](https://www.pexels.com/) - Free stock photos, even for commercial purposes.
 
 ### Social PSDs
 *Photoshop files for different social experiences*
