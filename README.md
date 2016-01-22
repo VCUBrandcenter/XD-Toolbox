@@ -91,6 +91,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Ad Research
 *Sites to help you discover and concept digital ads*
 - [Moat](http://www.moat.com/) - Search any brand and find it's banner ads.
+- [Rich Media Gallery](http://www.richmediagallery.com/) - Great resource of best in class display ads as well as Google/DoubleClick specific capabilities.
 - [Facebook Studio](https://www.facebook-studio.com/) - Showcases the best marketing campaigns ran on Facebook.
 - [Google Creative Gallery](https://www.thinkwithgoogle.com/intl/en-gb/creative-gallery/) - Use to be the Google Sandbox, a great collection of the leading digital ads, with a Google products focus.
 
