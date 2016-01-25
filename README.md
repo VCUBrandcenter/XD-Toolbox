@@ -73,6 +73,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## Sketch UI Design Kits
 *Get a leg up on your designs with these kits*
+- [Sketch Repo](http://sketchrepo.com/) - Large resource all Sketch tools and UI kits
+- [UI Space](http://uispace.net/) - Great collection of UI kits, Sketch Files, and Fonts
 - [Now](http://www.invisionapp.com/now) - A beautiful cross-platform UI kit
 - [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
 - [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
@@ -115,6 +117,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
 - [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
 - [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
+- [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
 
 ### Presentation
 - [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
