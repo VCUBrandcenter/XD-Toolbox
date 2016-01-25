@@ -43,6 +43,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
 - [Unsplash](https://unsplash.com/) - Amazing photographs that you can use commercially for free. Even has a Sketch [plug-in](https://github.com/fhuel/Unsplash-It-Sketch).
 - [Pexels](https://www.pexels.com/) - Free stock photos, even for commercial purposes.
+- [Noun Project](https://thenounproject.com/) - Not photos, but a series of stock icons, constantly updated by a huge illustration community.
 
 ### Social PSDs
 *Photoshop files for different social experiences*
