@@ -83,6 +83,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Here's some code snippets or all out code frameworks to help you build your next project*
 - [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
 - [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications. Get started on webapps quickly with examples for some of the top APIs.
 
 ## Advertising
 *List of tools to help you create display ads*
