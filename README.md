@@ -120,6 +120,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
 - [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
 - [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
+- [IBM Design Thinking](www.ibm.com/design/thinking/) - Another look a design thinking from IBM, who shows how to use it at a larger scale than IDEO.
 
 ### Presentation
 - [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
