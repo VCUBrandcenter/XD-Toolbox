@@ -111,6 +111,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
+- [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
 
 ### Ideation
 - [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
