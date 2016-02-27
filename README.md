@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### In-situ Web
 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
+- [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
 - [Frame](http://frame.lab25.co.uk/categories) - 8 categories for in-situ screens to be dropped in.
 
