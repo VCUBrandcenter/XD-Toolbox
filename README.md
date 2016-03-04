@@ -14,8 +14,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
 	- [Web](#social-web)
-- [In-Situation](#in-situation)
-	- [Web](#in-situ-web)
+- [In-Situation](#in-situ)
+	- [In-Situation PSDs](#in-situ-psds)
+	- [In-Situation Web Generators](#in-situ-web-generators)
 - [Sketch UI Kits](#sketch-ui-design-kits)
 - [Code Frameworks](#code-frameworks)
 - [Advertising](#advertising)
@@ -31,9 +32,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Photoshop and Sketch Files for different OS's*
 - [iOS 9 PSD & Sketch](https://facebook.github.io/design/ios9.html)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
-- [Apple Watch Sketch](https://designcode.io/watch)
-- [Apple Watch PSD](https://ui8.net/product/apple-watch-ui-kit)
-- [Android Wear](https://developer.android.com/design/downloads/index.html)
+- [Apple WatchOS Sketch](https://designcode.io/watch)
+- [Apple WatchOS PSD](https://ui8.net/product/apple-watch-ui-kit)
+- [Android Wear OS PSD](https://developer.android.com/design/downloads/index.html)
 
 
 ## Social
@@ -60,12 +61,17 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Pablo from Buffer](http://buffer.com/pablo) - Create image with text content for Instagram, Twitter, Facebook, or Pinterest. Resized automatically for you!
 
 ## In-situ
-*A list for dropping screens into real situations for comps*
-- [Freethroww](http://www.freethroww.com/) - Mostly PSD freebies of In-situ, ex. iPhone with with hand at bus stop.
+*Put your wonderful app comps into hardware and real world environments*
+
+### In-situ PSDs
+*These are in-situ files for local editing*
+
 - [In-situ from Invision](http://blog.invisionapp.com/free-iphone-6-mockups/) - More phones in hands
+- [Facebook Design's Devices Catalog](https://facebook.github.io/design/devices.html) - Just the hardware, but easily dropped into situations.
 
 
-### In-situ Web
+### In-situ Web Generators
+*These web generators allow you to put your comps in-situ*
 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
 - [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
@@ -116,6 +122,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
 - [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
+- [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
 
 ### Ideation
 - [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
