@@ -30,6 +30,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
+- [iOS 10 Sketch](http://ios10.greatsimple.io/)
 - [iOS 9 PSD & Sketch](https://facebook.github.io/design/ios9.html)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
 - [Apple WatchOS Sketch](https://designcode.io/watch)
