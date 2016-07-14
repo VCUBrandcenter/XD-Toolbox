@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
 - [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
 - [Chat](http://www.invisionapp.com/chat) - Very minimal and modern UI kit
+- [Relate](https://www.invisionapp.com/relate) - Super modern module UI kit.
 - [CollectUI](http://collectui.com/designs) - Great collection of UI examples for inspiration.
 - [tvOS](http://tvos.design/) - Collection of TV apps for inspiration.
 
