@@ -122,7 +122,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Here's extra stuff not necessarily related to prototyping but still helpful in your process*
 ### Research
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
-- [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.  
+- [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
+- [Google Data Gallery](https://www.thinkwithgoogle.com/data-gallery/) - Add Google research to your next deck with fun infographics.
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
