@@ -30,8 +30,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
-- [iOS 10 Sketch](http://ios10.greatsimple.io/)
-- [iOS 9 PSD & Sketch](https://facebook.github.io/design/ios9.html)
+- [iOS 10 PSD & Sketch](http://facebook.design/ios10)
+- [iOS 9 PSD & Sketch](http://facebook.design/ios9)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
 - [Apple WatchOS Sketch](https://designcode.io/watch)
 - [Apple WatchOS PSD](https://ui8.net/product/apple-watch-ui-kit)
@@ -71,7 +71,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 - [Device Mockups](https://www.devicemockups.co/) - Ready to Use Vector Device Mockups
 - [In-situ from Invision](http://blog.invisionapp.com/free-iphone-6-mockups/) - More phones in hands
-- [Facebook Design's Devices Catalog](https://facebook.github.io/design/devices.html) - Just the hardware, but easily dropped into situations.
+- [Facebook Design's Devices Catalog](http://facebook.design/devices) - Just the hardware, but easily dropped into situations.
 - [Graphic Burger](http://graphicburger.com/) - Great site for logo mockups, OOH, other real world and digital assets to make your work look great.
 
 
@@ -100,6 +100,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
 - [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications. Get started on webapps quickly with examples for some of the top APIs.
+- [Origami](https://facebook.github.io/origami/) - Tool that helps you create prototypes with motion. Used by Facebook. 
 
 ## Advertising
 *List of tools to help you create display ads*
