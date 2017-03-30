@@ -106,7 +106,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *List of tools to help you create display ads*
 ### Ad Specs
 *Dimensions and abilities of different ad platforms*
-- [Adsvise](http://www.adsvise.com/) - Social & digital ad image specs, sizes & dimensions in one place. PSD's included!
+- [Ad Jelly Size guide](https://www.adjelly.com/size-guide) - Social & digital ad image specs, sizes & dimensions in one place. PSD's included!
 - [IAB Display Advertising Guidelines](http://www.iab.com/guidelines/iab-display-advertising-guidelines/) - Has the HTML5 dimensions and guidelines for display advertising, also includes info about up and coming ad units.
 
 ### Ad Research
