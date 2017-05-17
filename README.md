@@ -53,7 +53,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Facebook](http://www.everyinteraction.com/resources/facebook-page-gui-psd/) - Layered files for Facebook UI for desktop and mobile.
 - [Twitter](http://www.everyinteraction.com/resources/twitter-profile-gui-psd/) - Layered files for Twitter UI for desktop, tablet and mobile.
 - [YouTube](http://www.everyinteraction.com/resources/youtube-channel-gui-psd/) - Layered file for YouTube UI for desktop.
-- [Instagram](https://www.behance.net/gallery/25145731/Instagram-Home-Screen-PSD-Layout) - Layered file for Instagram mobile app.
+- [Instagram](https://www.behance.net/gallery/44377887/FREE-Instagram-Feed-Profile-Screen-PSD-UI-2016) - Layered file for Instagram mobile app.
 
 ### Social Web
 *Websites for making social media comps*
