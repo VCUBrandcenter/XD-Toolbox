@@ -51,6 +51,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Photoshop files for different social experiences*
 
 - [Facebook](http://www.everyinteraction.com/resources/facebook-page-gui-psd/) - Layered files for Facebook UI for desktop and mobile.
+- [Messenger Chatbot](https://developers.facebook.com/docs/messenger-platform/design-resources/design-kit) - Sketch file for Facebook Messenger Chatbots.
 - [Twitter](http://www.everyinteraction.com/resources/twitter-profile-gui-psd/) - Layered files for Twitter UI for desktop, tablet and mobile.
 - [YouTube](http://www.everyinteraction.com/resources/youtube-channel-gui-psd/) - Layered file for YouTube UI for desktop.
 - [Instagram](https://www.behance.net/gallery/44377887/FREE-Instagram-Feed-Profile-Screen-PSD-UI-2016) - Layered file for Instagram mobile app.
