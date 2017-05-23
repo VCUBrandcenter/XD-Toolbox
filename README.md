@@ -133,6 +133,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
 - [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
 - [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
+- [A Day In The Life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) - Check out this visualization of how Americans spend their day to learn more about consumer habits.
 
 ### Ideation
 - [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
