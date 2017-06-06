@@ -30,6 +30,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page.
 - [iOS 10 PSD & Sketch](http://facebook.design/ios10)
 - [iOS 9 PSD & Sketch](http://facebook.design/ios9)
 - [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
