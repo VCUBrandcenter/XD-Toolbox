@@ -10,7 +10,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Contents
 
 - [OS UI](#os-ui)
-- [Prototyping](Prototyping-Resources)
+- [Prototyping](#Prototyping-Resources)
 - [Social](#social)
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
