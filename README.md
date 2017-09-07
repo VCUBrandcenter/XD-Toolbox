@@ -10,6 +10,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Contents
 
 - [OS UI](#os-ui)
+- [Prototyping](Prototyping-Resources)
 - [Social](#social)
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
@@ -34,10 +35,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page.
 - [iOS 10 PSD & Sketch](http://facebook.design/ios10)
 - [iOS 9 PSD & Sketch](http://facebook.design/ios9)
-- [iOS 8 Sketch & PSDs](http://www.teehanlax.com/tools/)
-- [Apple WatchOS Sketch](https://designcode.io/watch)
-- [Apple WatchOS PSD](https://ui8.net/product/apple-watch-ui-kit)
-- [Android Wear OS PSD](https://developer.android.com/design/downloads/index.html)
+- [Apple WatchOS PSD & Sketch](https://freebiesbug.com/psd-freebies/watchos-2-free-ui-kit-apple-watch/)
+- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
+
+## Prototyping Resources
+- [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 
 
 ## Social
@@ -56,15 +58,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Messenger Chatbot](https://developers.facebook.com/docs/messenger-platform/design-resources/design-kit) - Sketch file for Facebook Messenger Chatbots.
 - [Twitter](http://www.everyinteraction.com/resources/twitter-profile-gui-psd/) - Layered files for Twitter UI for desktop, tablet and mobile.
 - [YouTube](http://www.everyinteraction.com/resources/youtube-channel-gui-psd/) - Layered file for YouTube UI for desktop.
-- [Instagram](https://www.behance.net/gallery/44377887/FREE-Instagram-Feed-Profile-Screen-PSD-UI-2016) - Layered file for Instagram mobile app.
+- [Instagram](https://drive.google.com/open?id=0B3IY_VBFrmvRTkF1Um5PWE5ja3M) - Layered file for Instagram mobile app.
 
 ### Social Web
 *Websites for making social media comps*
 
 - [Adparlor Ad Mockup Generator](http://admocks.adparlor.com/) - Quickly create fake ads for social platforms.
-- [Lemme tweet that for you](http://www.lemmetweetthatforyou.com/) - Simple interface for creating fake tweets.
 - [Landscape](http://sproutsocial.com/landscape) - Image resizer for social media. Export for multiple platforms in one click.
-- [Pablo from Buffer](http://buffer.com/pablo) - Create image with text content for Instagram, Twitter, Facebook, or Pinterest. Resized automatically for you!
 
 ## In-situ
 *Put your wonderful app comps into hardware and real world environments*
@@ -72,7 +72,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### In-situ PSDs
 *These are in-situ files for local editing*
 
-- [Device Mockups](https://www.devicemockups.co/) - Ready to Use Vector Device Mockups
 - [In-situ from Invision](http://blog.invisionapp.com/free-iphone-6-mockups/) - More phones in hands
 - [Facebook Design's Devices Catalog](http://facebook.design/devices) - Just the hardware, but easily dropped into situations.
 - [Graphic Burger](http://graphicburger.com/) - Great site for logo mockups, OOH, other real world and digital assets to make your work look great.
@@ -84,7 +83,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
 - [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
-- [Frame](http://frame.lab25.co.uk/categories) - 8 categories for in-situ screens to be dropped in.
 
 ## Sketch UI Design Kits
 *Get a leg up on your designs with these kits*
@@ -96,7 +94,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Chat](http://www.invisionapp.com/chat) - Very minimal and modern UI kit
 - [Relate](https://www.invisionapp.com/relate) - Super modern module UI kit.
 - [CollectUI](http://collectui.com/designs) - Great collection of UI examples for inspiration.
-- [tvOS](http://tvos.design/) - Collection of TV apps for inspiration.
 
 ## Code Frameworks
 *Here's some code snippets or all out code frameworks to help you build your next project*
@@ -126,7 +123,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ### Analytics
 *Tools to help you track and report on your campaigns*
-- [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Easy tool for building UTM tags for tracking campaign clicks in Google analytics. 
+- [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Easy tool for building UTM tags for tracking campaign clicks in Google analytics.
 
 ## Extras
 *Here's extra stuff not necessarily related to prototyping but still helpful in your process*
