@@ -32,7 +32,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
-- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page.
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 11.
 - [iOS 10 PSD & Sketch](http://facebook.design/ios10)
 - [iOS 9 PSD & Sketch](http://facebook.design/ios9)
 - [Apple WatchOS PSD & Sketch](https://freebiesbug.com/psd-freebies/watchos-2-free-ui-kit-apple-watch/)
