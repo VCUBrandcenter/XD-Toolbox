@@ -88,6 +88,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Get a leg up on your designs with these kits*
 - [Sketch Repo](http://sketchrepo.com/) - Large resource all Sketch tools and UI kits
 - [UI Space](http://uispace.net/) - Great collection of UI kits, Sketch Files, and Fonts
+- [Mail](https://drive.google.com/open?id=1tEzdvWelNLLvwgH2JrmRU8bnDpMkYJWZ) - PSD and Sketch UI Kit from Invision, a productivity app centric design.
 - [Now](http://www.invisionapp.com/now) - A beautiful cross-platform UI kit
 - [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
 - [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
