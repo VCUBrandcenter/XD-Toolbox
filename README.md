@@ -95,6 +95,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Chat](http://www.invisionapp.com/chat) - Very minimal and modern UI kit
 - [Relate](https://www.invisionapp.com/relate) - Super modern module UI kit.
 - [CollectUI](http://collectui.com/designs) - Great collection of UI examples for inspiration.
+- [Lapa](https://www.lapa.ninja/) - Big collection of landing site inspiration.
 
 ## Code Frameworks
 *Here's some code snippets or all out code frameworks to help you build your next project*
