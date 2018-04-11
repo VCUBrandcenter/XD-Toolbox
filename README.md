@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## Prototyping Resources
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
 
 
 ## Social
