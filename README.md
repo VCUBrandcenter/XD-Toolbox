@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Ad Mockups](#ad-mockups)
 	- [Analytics](#analytics)
 - [Extras](#extras)
+	- [Inspiration](#inspiration)
 	- [Research](#research)
 	- [Ideation](#ideation)
 	- [Presentation](#presentation)
@@ -131,6 +132,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## Extras
 *Here's extra stuff not necessarily related to prototyping but still helpful in your process*
+
+### Inspiration
+- [Experiments with Google](https://experiments.withgoogle.com/) - Google's collection of physical and digital experiments, a great place for inspiration.
+- [Disney research](https://www.disneyresearch.com/) - Carnegie Mellon's entertainment research division, funded by Disney. Great stuff here in the world of physical user experience.
+- [Future Interfaces Group](http://www.figlab.com/) - Research lab at Carnegie Mellon working on new sensing and interface technologies.
+- [Hackaday](https://hackaday.com/) - Age old standby that showcases the best DIY projects.
+- [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
+
 ### Research
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
 - [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
