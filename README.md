@@ -139,6 +139,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Future Interfaces Group](http://www.figlab.com/) - Research lab at Carnegie Mellon working on new sensing and interface technologies.
 - [Hackaday](https://hackaday.com/) - Age old standby that showcases the best DIY projects.
 - [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
+- [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
 
 ### Research
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
