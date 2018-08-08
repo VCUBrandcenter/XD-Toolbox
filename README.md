@@ -129,6 +129,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Analytics
 *Tools to help you track and report on your campaigns*
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Easy tool for building UTM tags for tracking campaign clicks in Google analytics.
+- [Ubersuggest Keyword Generator](https://neilpatel.com/ubersuggest/) - Awesome tool for generating a large list of keywords for metatags for web or YouTube.
 
 ## Extras
 *Here's extra stuff not necessarily related to prototyping but still helpful in your process*
@@ -153,7 +154,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
 - [A Day In The Life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) - Check out this visualization of how Americans spend their day to learn more about consumer habits.
 - [Sorry Whaaat](http://sorrywhaaat.com/) - A dictionary of online marketing terms to help keep you in the know.
-- [Social Blade](https://socialblade.com/) - Easy way to pull social analytics. 
+- [Social Blade](https://socialblade.com/) - Easy way to pull social analytics.
 
 ### Ideation
 - [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
