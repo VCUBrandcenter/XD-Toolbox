@@ -34,10 +34,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 ## OS UI
 *Photoshop and Sketch Files for different OS's*
-- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 11.
-- [iOS 10 PSD & Sketch](http://facebook.design/ios10)
-- [iOS 9 PSD & Sketch](http://facebook.design/ios9)
-- [Apple WatchOS PSD & Sketch](https://freebiesbug.com/psd-freebies/watchos-2-free-ui-kit-apple-watch/)
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
 - [Android UI Kits](https://developer.android.com/design/downloads/index.html)
 
 ## Prototyping Resources
@@ -75,7 +72,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### In-situ PSDs
 *These are in-situ files for local editing*
 
-- [In-situ from Invision](http://blog.invisionapp.com/free-iphone-6-mockups/) - More phones in hands
 - [Facebook Design's Devices Catalog](http://facebook.design/devices) - Just the hardware, but easily dropped into situations.
 - [Graphic Burger](http://graphicburger.com/) - Great site for logo mockups, OOH, other real world and digital assets to make your work look great.
 
@@ -119,8 +115,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Moat](http://www.moat.com/) - Search any brand and find it's banner ads.
 - [Beetle](https://beetle.email) - Site that aggregates email marketing from some of the top companies. Has campaigns going back to 2013 and you can download the code.
 - [Rich Media Gallery](http://www.richmediagallery.com/) - Great resource of best in class display ads as well as Google/DoubleClick specific capabilities.
-- [Facebook Studio](https://www.facebook-studio.com/) - Showcases the best marketing campaigns ran on Facebook.
-- [Google Creative Gallery](https://www.thinkwithgoogle.com/intl/en-gb/creative-gallery/) - Use to be the Google Sandbox, a great collection of the leading digital ads, with a Google products focus.
+- [Facebook Inspiration](https://www.facebook.com/business/inspiration/gallery) - Showcases the best marketing campaigns ran on Facebook.
 
 ### Ad Mockups
 *Tools to help you design and build digital ads*
@@ -149,7 +144,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
 - [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
 - [Nielsen Top 10s](http://www.nielsen.com/us/en/top10s.html) - Nielsen's compiled weekly lists of what Americans are watching, reading, buying and more.
-- [Open Strategy](http://openstrate.gy/) - An amazing resource for all sorts of strategy tools.
 - [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
 - [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
 - [A Day In The Life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) - Check out this visualization of how Americans spend their day to learn more about consumer habits.
@@ -164,14 +158,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
 - [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
 - [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
-- [IBM Design Thinking](www.ibm.com/design/thinking/) - Another look a design thinking from IBM, who shows how to use it at a larger scale than IDEO.
 
 ### Presentation
 - [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
 - [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
 - [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
-- [Adobe Voice](https://standout.adobe.com/voice/) - An easy to use iOS app to help build "explainer" videos for you more complicated ideas.
-- [Jukedeck](https://www.jukedeck.com/) - Royalty free music that is generated by listing time, genre, and mood. You get six free tracks a month on the free plan.
 
 ### Job Search
 - [Job Hero](https://gojobhero.com/) - Site that will help you track you interview progress and has a great bookmarklet for auto-importing info from Glassdoor, LinkedIn, etc.
