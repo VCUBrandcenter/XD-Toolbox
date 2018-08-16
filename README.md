@@ -7,8 +7,6 @@ A curated list of awesome tools and files for making your work look... well, awe
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
-## Process
-
 ### Research
 
 ### Strategy
@@ -18,6 +16,22 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### Evaluate
 
 ### Contents
+
+
+## Research
+*Placeholder Text*
+
+## Strategy
+*Placeholder Text*
+
+## Design
+*Placeholder Text*
+
+## Evaluate
+*Placeholder Text*
+
+## Contents
+*Placeholder Text*
 
 - [OS UI](#os-ui)
 - [Prototyping](#prototyping-resources)
