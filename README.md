@@ -15,6 +15,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ### [Design](#design)
 - [OS UI](#os-ui)
 - [Prototyping](#prototyping-resources)
+- [Social](#social)
+	- [Stock Photos](#stock-photos)
+	- [PSDs](#social-psds)
+	- [Web](#social-web)
+- [In-Situation](#in-situ)
+	- [In-Situation PSDs](#in-situ-psds)
+	- [In-Situation Web Generators](#in-situ-web-generators)
 
 ### [Evaluate](#evaluate)
 
@@ -39,44 +46,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
 
-## Evaluate
-*Placeholder Text*
-
-## Extras
-*Placeholder Text*
-
-## Contents
-
-
-
-- [Social](#social)
-	- [Stock Photos](#stock-photos)
-	- [PSDs](#social-psds)
-	- [Web](#social-web)
-- [In-Situation](#in-situ)
-	- [In-Situation PSDs](#in-situ-psds)
-	- [In-Situation Web Generators](#in-situ-web-generators)
-- [Figma UX Tools](#figma-ux-tools)
-- [Sketch UI Kits](#sketch-ui-design-kits)
-- [Code Frameworks](#code-frameworks)
-- [Advertising](#advertising)
-	- [Ad Specs](#ad-specs)
-	- [Ad Research](#ad-research)
-	- [Ad Mockups](#ad-mockups)
-	- [Analytics](#analytics)
-- [Extras](#extras)
-	- [Inspiration](#inspiration)
-	- [Research](#research)
-	- [Ideation](#ideation)
-	- [Presentation](#presentation)
-	- [Job Search](#job-search)
-
-
-
-
-
-## Social
-*List stock photo sites for social media comps*
+### Social
+*List sites for social media comps*
 
 ### Stock Photos
 - [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
@@ -99,7 +70,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Adparlor Ad Mockup Generator](http://admocks.adparlor.com/) - Quickly create fake ads for social platforms.
 - [Landscape](http://sproutsocial.com/landscape) - Image resizer for social media. Export for multiple platforms in one click.
 
-## In-situ
+### In-situ
 *Put your wonderful app comps into hardware and real world environments*
 
 ### In-situ PSDs
@@ -115,6 +86,39 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
 - [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
+
+## Evaluate
+*Placeholder Text*
+
+## Extras
+*Placeholder Text*
+### Job Search
+- [Job Hero](https://gojobhero.com/) - Site that will help you track you interview progress and has a great bookmarklet for auto-importing info from Glassdoor, LinkedIn, etc.
+
+////OLD////
+
+
+
+- [Figma UX Tools](#figma-ux-tools)
+- [Sketch UI Kits](#sketch-ui-design-kits)
+- [Code Frameworks](#code-frameworks)
+- [Advertising](#advertising)
+	- [Ad Specs](#ad-specs)
+	- [Ad Research](#ad-research)
+	- [Ad Mockups](#ad-mockups)
+	- [Analytics](#analytics)
+- [Extras](#extras)
+	- [Inspiration](#inspiration)
+	- [Research](#research)
+	- [Ideation](#ideation)
+	- [Presentation](#presentation)
+	- [Job Search](#job-search)
+
+
+
+
+
+
 
 ## Figma UX Tools
 *Great Resources for the Google Docs of UX Design*
@@ -203,6 +207,3 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
 - [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
 - [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
-
-### Job Search
-- [Job Hero](https://gojobhero.com/) - Site that will help you track you interview progress and has a great bookmarklet for auto-importing info from Glassdoor, LinkedIn, etc.
