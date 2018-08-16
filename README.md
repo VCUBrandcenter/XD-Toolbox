@@ -7,16 +7,19 @@ A curated list of awesome tools and files for making your work look... well, awe
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
-### Research
+## Contents
+### [Research](#research)
 
-### Strategy
+### [Strategy](#strategy)
 
-### Design
+### [Design](#design)
+- [OS UI](#os-ui)
+- [Prototyping](#prototyping-resources)
 
-### Evaluate
+### [Evaluate](#evaluate)
 
-### Contents
-
+### [Extras](#extras)
+- [Job Search](#job-search)
 
 ## Research
 *Placeholder Text*
@@ -27,14 +30,25 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 ## Design
 *Placeholder Text*
 
+### OS UI
+*Photoshop and Sketch Files for different OS's*
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
+- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
+
+### Prototyping Resources
+- [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+
 ## Evaluate
 *Placeholder Text*
 
-## Contents
+## Extras
 *Placeholder Text*
 
-- [OS UI](#os-ui)
-- [Prototyping](#prototyping-resources)
+## Contents
+
+
+
 - [Social](#social)
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
@@ -57,15 +71,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Presentation](#presentation)
 	- [Job Search](#job-search)
 
-## OS UI
-*Photoshop and Sketch Files for different OS's*
-- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
-- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
 
-## Prototyping Resources
-- [Figma]()
-- [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
-- [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+
 
 
 ## Social
