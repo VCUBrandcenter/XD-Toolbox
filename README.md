@@ -11,16 +11,16 @@ The organization for this toolbox is based on the idea of the Lean UX model wher
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
 ## Contents
-### [Research](#research)
+### Research
 - [Inspiration](#inspiration)
 - [Resources](#resources)
 - [Interviewing](#interviewing)
 
-### [Strategy](#strategy)
+### Strategy
 - [Ideation Exercises](#ideation-exercises)
 - [Documentation](#documentation)
 
-### [Design](#design)
+### Design
 - [Prototyping](#prototyping-resources)
 	- [Figma UX Tools](#figma-ux-tools)
 	- [Sketch UI Kits](#sketch-ui-design-kits)
@@ -34,7 +34,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [In-Situation PSDs](#in-situ-psds)
 	- [In-Situation Web Generators](#in-situ-web-generators)
 
-### [Evaluate](#evaluate)
+### Evaluate
 - [UX Standards Checks](#ux-standards)
 - [Advertising](#advertising)
 	- [Ad Specs](#ad-specs)
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Ad Mockups](#ad-mockups)
 	- [Analytics](#analytics)
 
-### [Extras](#extras)
+### Extras
 - [Industry Info](#industry-info)
 - [Job Search](#job-search)
 
