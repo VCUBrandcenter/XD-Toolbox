@@ -3,14 +3,29 @@
 
 A curated list of awesome tools and files for making your work look... well, awesome!
 
+The organization for this toolbox is based on the idea of the Lean UX model where XD practitioners can jump in on any stage of the process and work the problem.
+![Lean UX Model](https://i.imgur.com/77hBaTj.png)
+
 ### Contributing
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
-### Contents
+## Contents
+### Research
+- [Inspiration](#inspiration)
+- [Resources](#resources)
+- [Interviewing](#interviewing)
 
-- [OS UI](#os-ui)
+### Strategy
+- [Ideation Exercises](#ideation-exercises)
+- [Documentation](#documentation)
+
+### Design
 - [Prototyping](#prototyping-resources)
+	- [Figma UX Tools](#figma-ux-tools)
+	- [Sketch UI Kits](#sketch-ui-design-kits)
+	- [Code Frameworks](#code-frameworks)
+	- [OS UI](#os-ui)
 - [Social](#social)
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
@@ -18,34 +33,97 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [In-Situation](#in-situ)
 	- [In-Situation PSDs](#in-situ-psds)
 	- [In-Situation Web Generators](#in-situ-web-generators)
-- [Figma UX Tools](#figma-ux-tools)
-- [Sketch UI Kits](#sketch-ui-design-kits)
-- [Code Frameworks](#code-frameworks)
+
+### Evaluate
+- [UX Standards Checks](#ux-standards)
 - [Advertising](#advertising)
 	- [Ad Specs](#ad-specs)
 	- [Ad Research](#ad-research)
 	- [Ad Mockups](#ad-mockups)
 	- [Analytics](#analytics)
-- [Extras](#extras)
-	- [Inspiration](#inspiration)
-	- [Research](#research)
-	- [Ideation](#ideation)
-	- [Presentation](#presentation)
-	- [Job Search](#job-search)
 
-## OS UI
-*Photoshop and Sketch Files for different OS's*
-- [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
-- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
+### Extras
+- [Industry Info](#industry-info)
+- [Job Search](#job-search)
 
-## Prototyping Resources
-- [Figma]()
+## Research
+*Dive deep and learn more about your problem*
+
+### Inspiration
+- [Experiments with Google](https://experiments.withgoogle.com/) - Google's collection of physical and digital experiments, a great place for inspiration.
+- [Disney research](https://www.disneyresearch.com/) - Carnegie Mellon's entertainment research division, funded by Disney. Great stuff here in the world of physical user experience.
+- [Future Interfaces Group](http://www.figlab.com/) - Research lab at Carnegie Mellon working on new sensing and interface technologies.
+- [Hackaday](https://hackaday.com/) - Age old standby that showcases the best DIY projects.
+- [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
+- [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
+- [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
+
+### Resources
+- [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
+- [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
+- [Google Data Gallery](https://www.thinkwithgoogle.com/data-gallery/) - Add Google research to your next deck with fun infographics.
+- [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
+- [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
+- [Nielsen Top 10s](http://www.nielsen.com/us/en/top10s.html) - Nielsen's compiled weekly lists of what Americans are watching, reading, buying and more.
+
+### Interviewing
+- [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
+
+## Strategy
+*Time to take all that research and start crafting your solution*
+
+### Ideation Exercises
+- [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
+- [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
+- [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/) - Awesome 3 Day tool kit, plus individual assignments to help create an awesome product. Archive [Here](https://drive.google.com/open?id=0B3IY_VBFrmvRNjYtSlJaZ2V5eDA)
+- [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
+- [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
+- [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
+- [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
+
+### Documentation
+- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
+
+
+## Design
+*Let's build out our MVP*
+
+### Prototyping Resources
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+### OS UI
+*Photoshop and Sketch Files for different OS's*
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
+- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
+
+### Figma UX Tools
+*Great Resources for the Google Docs of UX Design*
+- [Official Figma Resources](https://www.figma.com/resources/) - Official List of Resources from Figma.
+- [Figma Crush](https://www.figmacrush.com/) - Large amount of Figma templates, sorted by type.
+- [Figma Resources](https://www.figmaresources.com/resources) - Another resource for Figma templates.
 
 
-## Social
-*List stock photo sites for social media comps*
+### Sketch UI Design Kits
+*Get a leg up on your designs with these kits*
+- [Sketch Repo](http://sketchrepo.com/) - Large resource all Sketch tools and UI kits
+- [UI Space](http://uispace.net/) - Great collection of UI kits, Sketch Files, and Fonts
+- [Mail](https://drive.google.com/open?id=1tEzdvWelNLLvwgH2JrmRU8bnDpMkYJWZ) - PSD and Sketch UI Kit from Invision, a productivity app centric design.
+- [Now](http://www.invisionapp.com/now) - A beautiful cross-platform UI kit
+- [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
+- [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
+- [Chat](http://www.invisionapp.com/chat) - Very minimal and modern UI kit
+- [Relate](https://www.invisionapp.com/relate) - Super modern module UI kit.
+- [CollectUI](http://collectui.com/designs) - Great collection of UI examples for inspiration.
+- [Lapa](https://www.lapa.ninja/) - Big collection of landing site inspiration.
+
+### Code Frameworks
+*Here's some code snippets or all out code frameworks to help you build your next project*
+- [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
+- [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
+- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications. Get started on webapps quickly with examples for some of the top APIs.
+
+### Social
+*List sites for social media comps*
 
 ### Stock Photos
 - [Death To Stock Photo](http://deathtothestockphoto.com/) - A great site for photographs that look real and not like stock photography. Archive [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRTFRdkp5NnNKNTQ&usp=sharing).
@@ -68,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Adparlor Ad Mockup Generator](http://admocks.adparlor.com/) - Quickly create fake ads for social platforms.
 - [Landscape](http://sproutsocial.com/landscape) - Image resizer for social media. Export for multiple platforms in one click.
 
-## In-situ
+### In-situ
 *Put your wonderful app comps into hardware and real world environments*
 
 ### In-situ PSDs
@@ -85,34 +163,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
 
-## Figma UX Tools
-*Great Resources for the Google Docs of UX Design*
-- [Official Figma Resources](https://www.figma.com/resources/) - Official List of Resources from Figma.
-- [Figma Crush](https://www.figmacrush.com/) - Large amount of Figma templates, sorted by type.
-- [Figma Resources](https://www.figmaresources.com/resources) - Another resource for Figma templates.
+## Evaluate
+*Let's measure what we built!*
 
+### UX standards
+- [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
 
-## Sketch UI Design Kits
-*Get a leg up on your designs with these kits*
-- [Sketch Repo](http://sketchrepo.com/) - Large resource all Sketch tools and UI kits
-- [UI Space](http://uispace.net/) - Great collection of UI kits, Sketch Files, and Fonts
-- [Mail](https://drive.google.com/open?id=1tEzdvWelNLLvwgH2JrmRU8bnDpMkYJWZ) - PSD and Sketch UI Kit from Invision, a productivity app centric design.
-- [Now](http://www.invisionapp.com/now) - A beautiful cross-platform UI kit
-- [tethr](http://www.invisionapp.com/tethr) - A fully loaded mobile UI Kit
-- [Do](http://www.invisionapp.com/do) - A UI kit mostly focused on a To-Do app
-- [Chat](http://www.invisionapp.com/chat) - Very minimal and modern UI kit
-- [Relate](https://www.invisionapp.com/relate) - Super modern module UI kit.
-- [CollectUI](http://collectui.com/designs) - Great collection of UI examples for inspiration.
-- [Lapa](https://www.lapa.ninja/) - Big collection of landing site inspiration.
-
-## Code Frameworks
-*Here's some code snippets or all out code frameworks to help you build your next project*
-- [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
-- [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
-- [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications. Get started on webapps quickly with examples for some of the top APIs.
-- [Origami](https://facebook.github.io/origami/) - Tool that helps you create prototypes with motion. Used by Facebook.
-
-## Advertising
+### Advertising
 *List of tools to help you create display ads*
 ### Ad Specs
 *Dimensions and abilities of different ad platforms*
@@ -134,44 +191,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Tools to help you track and report on your campaigns*
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Easy tool for building UTM tags for tracking campaign clicks in Google analytics.
 - [Ubersuggest Keyword Generator](https://neilpatel.com/ubersuggest/) - Awesome tool for generating a large list of keywords for metatags for web or YouTube.
-
-## Extras
-*Here's extra stuff not necessarily related to prototyping but still helpful in your process*
-
-### Inspiration
-- [Experiments with Google](https://experiments.withgoogle.com/) - Google's collection of physical and digital experiments, a great place for inspiration.
-- [Disney research](https://www.disneyresearch.com/) - Carnegie Mellon's entertainment research division, funded by Disney. Great stuff here in the world of physical user experience.
-- [Future Interfaces Group](http://www.figlab.com/) - Research lab at Carnegie Mellon working on new sensing and interface technologies.
-- [Hackaday](https://hackaday.com/) - Age old standby that showcases the best DIY projects.
-- [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
-- [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
-
-### Research
-- [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
-- [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
-- [Google Data Gallery](https://www.thinkwithgoogle.com/data-gallery/) - Add Google research to your next deck with fun infographics.
-- [Facebook Audience Insights](https://www.facebook.com/ads/audience_insights/) - Learn more about your target audience through data from the world largest social network.
-- [Google's Customer Journey Tool ](https://www.thinkwithgoogle.com/tools/customer-journey-to-online-purchase.html) - Learn more about your average customers purchase journey. Make's Customer Experience (CX) mapping more informed.
-- [Nielsen Top 10s](http://www.nielsen.com/us/en/top10s.html) - Nielsen's compiled weekly lists of what Americans are watching, reading, buying and more.
-- [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
-- [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
-- [A Day In The Life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) - Check out this visualization of how Americans spend their day to learn more about consumer habits.
-- [Sorry Whaaat](http://sorrywhaaat.com/) - A dictionary of online marketing terms to help keep you in the know.
 - [Social Blade](https://socialblade.com/) - Easy way to pull social analytics.
 
-### Ideation
-- [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
-- [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
-- [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/) - Awesome 3 Day tool kit, plus individual assignments to help create an awesome product. Archive [Here](https://drive.google.com/open?id=0B3IY_VBFrmvRNjYtSlJaZ2V5eDA)
-- [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
-- [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
-- [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
-- [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
 
-### Presentation
-- [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
-- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
-- [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
+## Extras
+*Things that didn't fit in our XD process*
+
+### Industry Info
+- [Sorry Whaaat](http://sorrywhaaat.com/) - A dictionary of online marketing terms to help keep you in the know.
 
 ### Job Search
 - [Job Hero](https://gojobhero.com/) - Site that will help you track you interview progress and has a great bookmarklet for auto-importing info from Glassdoor, LinkedIn, etc.
