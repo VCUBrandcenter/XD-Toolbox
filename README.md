@@ -14,13 +14,15 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Interviewing](#interviewing)
 
 ### [Strategy](#strategy)
+- [Ideation Exercises](#ideation-exercises)
+- [Documentation](#documentation)
 
 ### [Design](#design)
-- [OS UI](#os-ui)
 - [Prototyping](#prototyping-resources)
 	- [Figma UX Tools](#figma-ux-tools)
 	- [Sketch UI Kits](#sketch-ui-design-kits)
 	- [Code Frameworks](#code-frameworks)
+	- [OS UI](#os-ui)
 - [Social](#social)
 	- [Stock Photos](#stock-photos)
 	- [PSDs](#social-psds)
@@ -29,9 +31,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [In-Situation PSDs](#in-situ-psds)
 	- [In-Situation Web Generators](#in-situ-web-generators)
 
-
-
 ### [Evaluate](#evaluate)
+- [UX Standards Checks](#ux-standards)
 - [Advertising](#advertising)
 	- [Ad Specs](#ad-specs)
 	- [Ad Research](#ad-research)
@@ -39,10 +40,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 	- [Analytics](#analytics)
 
 ### [Extras](#extras)
+- [Industry Info](#industry-info)
 - [Job Search](#job-search)
 
 ## Research
-*Placeholder Text*
+*Dive deep and learn more about your problem*
 
 ### Inspiration
 - [Experiments with Google](https://experiments.withgoogle.com/) - Google's collection of physical and digital experiments, a great place for inspiration.
@@ -51,6 +53,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Hackaday](https://hackaday.com/) - Age old standby that showcases the best DIY projects.
 - [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
 - [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
+- [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
 
 ### Resources
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
@@ -64,19 +67,30 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Typeform](http://www.typeform.com/) - The best surveying and forms tool ever!
 
 ## Strategy
-*Placeholder Text*
+*Time to take all that research and start crafting your solution*
+
+### Ideation Exercises
+- [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
+- [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
+- [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/) - Awesome 3 Day tool kit, plus individual assignments to help create an awesome product. Archive [Here](https://drive.google.com/open?id=0B3IY_VBFrmvRNjYtSlJaZ2V5eDA)
+- [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
+- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
+- [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
+- [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
+- [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
+
+###Documentation
 
 ## Design
-*Placeholder Text*
-
-### OS UI
-*Photoshop and Sketch Files for different OS's*
-- [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
-- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
+*Let's build out our MVP*
 
 ### Prototyping Resources
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+### OS UI
+*Photoshop and Sketch Files for different OS's*
+- [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
+- [Android UI Kits](https://developer.android.com/design/downloads/index.html)
 
 ### Figma UX Tools
 *Great Resources for the Google Docs of UX Design*
@@ -103,7 +117,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Bootstrap](http://getbootstrap.com/) - The defacto web framework to get you started fast with a responsive website.
 - [Code My UI](http://codemyui.com/) - Handpicked code snippets of UI's and animations you can use in your web projects.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications. Get started on webapps quickly with examples for some of the top APIs.
-- [Origami](https://facebook.github.io/origami/) - Tool that helps you create prototypes with motion. Used by Facebook.
 
 ### Social
 *List sites for social media comps*
@@ -147,7 +160,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
 
 ## Evaluate
-*Placeholder Text*
+*Let's measure what we built!*
+
+### UX standards
+- [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
 
 ### Advertising
 *List of tools to help you create display ads*
@@ -175,43 +191,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 
 ## Extras
-*Placeholder Text*
+*Things that didn't fit in our XD process*
 
+### Industry Info
 - [Sorry Whaaat](http://sorrywhaaat.com/) - A dictionary of online marketing terms to help keep you in the know.
 
 ### Job Search
 - [Job Hero](https://gojobhero.com/) - Site that will help you track you interview progress and has a great bookmarklet for auto-importing info from Glassdoor, LinkedIn, etc.
-
-
-
-////OLD////
-
-
-
-
-	- [Research](#research)
-	- [Ideation](#ideation)
-	- [Presentation](#presentation)
-	- [Job Search](#job-search)
-
-
-
-
-- [UXCheck](http://www.uxcheck.co/) - Chrome extension for checking the UX of a site. Exports your report as a word doc with screenshots.
-- [A Day In The Life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) - Check out this visualization of how Americans spend their day to learn more about consumer habits.
-
-
-
-### Ideation
-- [IDEO's Design Kit](http://www.designkit.org/methods) - These methods are a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
-- [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
-- [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/) - Awesome 3 Day tool kit, plus individual assignments to help create an awesome product. Archive [Here](https://drive.google.com/open?id=0B3IY_VBFrmvRNjYtSlJaZ2V5eDA)
-- [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
-- [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
-- [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
-- [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
-
-### Presentation
-- [Slides Carnival](http://www.slidescarnival.com/) - Site with LOTS of Google Slides templates.
-- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
-- [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
