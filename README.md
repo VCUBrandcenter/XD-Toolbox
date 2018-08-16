@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [In-Situation](#in-situ)
 	- [In-Situation PSDs](#in-situ-psds)
 	- [In-Situation Web Generators](#in-situ-web-generators)
+- [Figma UX Tools](#figma-ux-tools)
 - [Sketch UI Kits](#sketch-ui-design-kits)
 - [Code Frameworks](#code-frameworks)
 - [Advertising](#advertising)
@@ -38,6 +39,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Android UI Kits](https://developer.android.com/design/downloads/index.html)
 
 ## Prototyping Resources
+- [Figma]()
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
 
@@ -82,6 +84,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Dunnnk](http://dunnnk.com/) - Supports screens for iPhone, Android, iPad, Desktop and Apple Watch.
 - [Smartockups](http://smartmockups.com/) - More in-situ screens for showing off your designs.
 - [Mockerie](http://mockerie.io/) - Like Dunnnk, but lets you interact with your live site.
+
+## Figma UX Tools
+*Great Resources for the Google Docs of UX Design*
+- [Official Figma Resources](https://www.figma.com/resources/) - Official List of Resources from Figma.
+- [Figma Crush](https://www.figmacrush.com/) - Large amount of Figma templates, sorted by type.
+- [Figma Resources](https://www.figmaresources.com/resources) - Another resource for Figma templates.
+
 
 ## Sketch UI Design Kits
 *Get a leg up on your designs with these kits*
