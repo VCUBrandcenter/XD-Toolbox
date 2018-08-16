@@ -74,12 +74,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A resource kit you can use to apply creative collaboration and unleash potential in your team.
 - [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/) - Awesome 3 Day tool kit, plus individual assignments to help create an awesome product. Archive [Here](https://drive.google.com/open?id=0B3IY_VBFrmvRNjYtSlJaZ2V5eDA)
 - [Project of How](http://projectofhow.com/methods/) - Hyper Island Alumni create new methods for brainstorming.
-- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
 - [The Strategy Deck (of cards!)](http://strategydeck.com/deck/) - Tons of communication strategy tools in one deck of tip cards. Download the PNGs [Here](https://drive.google.com/folderview?id=0B3IY_VBFrmvRRUVzY3hkMy1KMEU&usp=sharing).
 - [Brainstorm Better](https://drive.google.com/file/d/0B3IY_VBFrmvRbnROeE9wRFp4TGs/view?usp=sharing) - Have to better organize your group brainstorms. tl;dr You should always have everyone independently prepare.
 - [LEGO Kits and Your Creative Soul](http://www.wnyc.org/story/what-your-creativity-has-do-lego-kits/) - You should always start ideation by doing a creative exercise to break away from your normal left-brain thinking.
 
-###Documentation
+### Documentation
+- [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/) - Great assortment of UX Methods and Deliverables you can use in presentations to sell your ideas.
+
 
 ## Design
 *Let's build out our MVP*
