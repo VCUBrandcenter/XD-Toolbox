@@ -7,6 +7,8 @@ A curated list of awesome tools and files for making your work look... well, awe
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
 
+## XD Toolbox
+
 ### Contents
 
 - [OS UI](#os-ui)
