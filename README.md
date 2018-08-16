@@ -3,6 +3,9 @@
 
 A curated list of awesome tools and files for making your work look... well, awesome!
 
+The organization for this toolbox is based on the idea of the Lean UX model where XD practitioners can jump in on any stage of the process and work the problem.
+![Lean UX Model](https://i.imgur.com/77hBaTj.png)
+
 ### Contributing
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
