@@ -198,6 +198,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Things that didn't fit in our XD process*
 
 ### Industry Info
+- [General Assembly Product Design Bootcamp](https://docs.google.com/presentation/d/1w7w46tz6VGPboVLQjBW5K5JtGkoBiV3kkDJLB62JjUg/edit?usp=sharing) - A great 2 Day class on Product Design, which includes many aspects of XD. My notes [here](https://docs.google.com/document/d/1_8YgqoW4J0g7DPRhucnmg0t-rOALEo2dH61wscsbVdw/edit?usp=sharing).
 - [Sorry Whaaat](http://sorrywhaaat.com/) - A dictionary of online marketing terms to help keep you in the know.
 
 ### Job Search
