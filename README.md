@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 *Let's build out our MVP*
 
 ### Prototyping Resources
+- [Learn UX Courses](https://learnux.io/#courses) - A really awesome resource for learning the apps of UX design. Invision Studio/Figma/Sketch/Adobe XD/Framer, it's all there.
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
 ### OS UI
