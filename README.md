@@ -57,6 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Designer News](https://www.designernews.co/) - Feed of the latest news in UX Design, with upvoting!
 - [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
 - [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
+- [Spotify Musical Cities](https://spotifymaps.github.io/musicalcities/) - Immerse yourself deeper into your target audience by listening to the music of their city. More from the Spotify Insights ([UK](https://insights.spotify.com/uk/)/[US](https://spotifyforbrands.com/en-US/insights/)) team.
 
 ### Resources
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
