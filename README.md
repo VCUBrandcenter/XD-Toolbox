@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 
 - [Adparlor Ad Mockup Generator](http://admocks.adparlor.com/) - Quickly create fake ads for social platforms.
 - [Landscape](http://sproutsocial.com/landscape) - Image resizer for social media. Export for multiple platforms in one click.
+- [Headliner](https://www.headliner.app/) - Great free site for automatically adding animated captions to audio clips and video.
 
 ### In-situ
 *Put your wonderful app comps into hardware and real world environments*
