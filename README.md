@@ -93,6 +93,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Learn UX Courses](https://learnux.io/#courses) - A really awesome resource for learning the apps of UX design. Invision Studio/Figma/Sketch/Adobe XD/Framer, it's all there.
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+- [Archetype](https://archetypeapp.com/) - Find a font for your next project using a headline and paragraph interface.
 ### OS UI
 *Photoshop and Sketch Files for different OS's*
 - [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
