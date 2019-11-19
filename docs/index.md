@@ -1,3 +1,4 @@
+
 # XD Toolbox
 
 A curated list of awesome tools and files for making your work look... well, awesome!
@@ -59,6 +60,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Spotify Musical Cities](https://spotifymaps.github.io/musicalcities/) - Immerse yourself deeper into your target audience by listening to the music of their city. More from the Spotify Insights ([UK](https://insights.spotify.com/uk/)/[US](https://spotifyforbrands.com/en-US/insights/)) team.
 
 ### Resources
+- [Julian Cole - Planning Dirty](https://docs.google.com/document/d/1qHqO7CfrVGAsCBQOZT_hAv-KZ3Ck-Zpen-Jsrr9uboc/edit?usp=sharing) - List of amazing decks, inspiration, and templates from Julian Cole.
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
 - [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
 - [Google Data Gallery](https://www.thinkwithgoogle.com/data-gallery/) - Add Google research to your next deck with fun infographics.
@@ -92,6 +94,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Learn UX Courses](https://learnux.io/#courses) - A really awesome resource for learning the apps of UX design. Invision Studio/Figma/Sketch/Adobe XD/Framer, it's all there.
 - [Sound Kit for Prototypes](http://facebook.design/soundkit) - A collection of interaction sounds for prototypes.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - Large collection of well known web design systems of brands you know.
+- [Archetype](https://archetypeapp.com/) - Find a font for your next project using a headline and paragraph interface.
 ### OS UI
 *Photoshop and Sketch Files for different OS's*
 - [Apple UI Design Resources](https://developer.apple.com/design/resources/) Official Design Resources from Apple's [Design](https://developer.apple.com/design/) Page. Includes iOS 12.
