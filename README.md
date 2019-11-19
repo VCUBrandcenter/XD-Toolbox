@@ -60,6 +60,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Spotify Musical Cities](https://spotifymaps.github.io/musicalcities/) - Immerse yourself deeper into your target audience by listening to the music of their city. More from the Spotify Insights ([UK](https://insights.spotify.com/uk/)/[US](https://spotifyforbrands.com/en-US/insights/)) team.
 
 ### Resources
+- [Julian Cole - Planning Dirty](https://docs.google.com/document/d/1qHqO7CfrVGAsCBQOZT_hAv-KZ3Ck-Zpen-Jsrr9uboc/edit?usp=sharing) - List of amazing decks, inspiration, and templates from Julian Cole.
 - [Facebook IQ](http://insights.fb.com/) - Insights from Facebook's research department about consumers trends.
 - [Think With Google](https://www.thinkwithgoogle.com/) - An amazing collection of case studies and tools to help you with digital thinking and marketing.
 - [Google Data Gallery](https://www.thinkwithgoogle.com/data-gallery/) - Add Google research to your next deck with fun infographics.
