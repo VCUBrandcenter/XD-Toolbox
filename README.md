@@ -58,6 +58,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for 
 - [Creative Applications](http://www.creativeapplications.net/) - A great resource to see the latest in digital art.
 - [Behance](https://www.behance.net/) - When you need some inspiration, never hurts to check out other peoples work. Lots of spec work here when you search by brand.
 - [Spotify Musical Cities](https://spotifymaps.github.io/musicalcities/) - Immerse yourself deeper into your target audience by listening to the music of their city. More from the Spotify Insights ([UK](https://insights.spotify.com/uk/)/[US](https://spotifyforbrands.com/en-US/insights/)) team.
+- [Awwwards](https://www.awwwards.com/websites/) - Great site to see inspiring sites, and see example organized by page type or UI examples. Also great to search for possible production partners.
 
 ### Resources
 - [Julian Cole - Planning Dirty](https://docs.google.com/document/d/1qHqO7CfrVGAsCBQOZT_hAv-KZ3Ck-Zpen-Jsrr9uboc/edit?usp=sharing) - List of amazing decks, inspiration, and templates from Julian Cole.
